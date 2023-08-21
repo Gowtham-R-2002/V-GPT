@@ -1,0 +1,7 @@
+flask
+openai
+deep_translator
+gtts
+SpeechRecognition
+sounddevice
+numpy
