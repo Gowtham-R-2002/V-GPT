@@ -5,3 +5,4 @@ gtts
 SpeechRecognition
 sounddevice
 numpy
+gunicorn
